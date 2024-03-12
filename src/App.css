@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+}
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: darksalmon;
+}
+
+.container{
+  background-color: darksalmon;
+  max-height: max-content;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cards{
+  margin: 20px 70px;
+}
+.articleCard{
+  margin-bottom: 40px;
+}
+.button{
+  background-color: rgb(95, 74, 67);
+  padding: 10px 30px;
+  color:darksalmon;
+}
