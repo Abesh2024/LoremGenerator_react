@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Main from './Components/Main';
+import Lorem from './Components/Lorem';
 
 function App() {
   return (
     <div className="App">
-      <Main/>
+      <Lorem/>
     </div>
   );
 }

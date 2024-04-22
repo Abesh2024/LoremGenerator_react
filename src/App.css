@@ -5,11 +5,11 @@
 .App {
   text-align: center;
   height: 100vh;
-  background-color: darksalmon;
+  background-color: #FFE6D6;
 }
 
 .container{
-  background-color: darksalmon;
+  background-color: #FFE6D6;
   max-height: max-content;
   padding: 80px;
   display: flex;
